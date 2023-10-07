@@ -97,3 +97,7 @@ I am a IT student and I am currently learning Full Stack Web Development
 <a href="http://www.github.com/viditagrawal56"><img src="https://github-readme-stats.vercel.app/api?username=viditagrawal56&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=0891b2&icon_color=3382ed&bg_color=22272e&hide_border=true&show_icons=true" alt="viditagrawal56's GitHub stats" /></a>
 
 <a href="https://github.com/viditagrawal56" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viditagrawal56&langs_count=10&title_color=0891b2&text_color=0891b2&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Hacktober Fest Holopins</b>
+
+[![An image of @viditagrawal56's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/viditagrawal56)](https://holopin.io/@viditagrawal56)
