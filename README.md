@@ -14,7 +14,7 @@ I am currently learning Full Stack Web Development
 ### 🔭Currently Working on
 
 * Developing a Course Selling Website as I learn the MERN stack
-* Developing a Cross-Platform Auto-Zoom Camera using Flutter 
+* Developing a Cross-Platform Auto-Zoom Camera app using Flutter 
 
 ### 🌱 I’m currently learning
 
